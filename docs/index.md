@@ -1,10 +1,10 @@
-#Ben Harris
+# Ben Harris
 
-##Location
+## Location
 Providence, RI USA
 
-##Professional
+## Professional
 Director of Technology at Paul Cuffee School
 
-##Personal
+## Personal
 Father, husband, maker of things
