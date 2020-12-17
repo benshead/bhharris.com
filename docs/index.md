@@ -1,7 +1,7 @@
 # Ben Harris
 
 ## Location
-Providence, RI USA
+Providence, RI USA 
 
 ## Professional
 Director of Technology at Paul Cuffee School
