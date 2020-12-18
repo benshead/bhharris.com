@@ -8,7 +8,7 @@ School Technology Leader | Director of Technology at Paul Cuffee School
 Father, husband, maker of things, photographer
 
 ## Links
-[LinkedIn](https://www.linkedin.com/in/benjaminharris/)
+[Linkedin](https://www.linkedin.com/in/benjaminharris/)
 [Flickr](https://www.flickr.com/photos/benshead/)
 [Twitter](https://twitter.com/benshead)
 
