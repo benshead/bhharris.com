@@ -13,3 +13,5 @@ Father, husband, maker of things, photographer
 [LinkedIn](https://www.linkedin.com/in/benjaminharris/)
 [Flickr](https://www.flickr.com/photos/benshead/)
 [Twitter](https://twitter.com/benshead)
+
+![Alcatraz!](https://farm5.static.flickr.com/4669/38870572175_9a4ab24984_z.jpg")
