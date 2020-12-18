@@ -1,5 +1,3 @@
-# About Me
-
 ## Location
 Providence, RI USA 
 
