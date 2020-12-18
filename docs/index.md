@@ -1,7 +1,7 @@
 # About Me
 
 ## Location
-Providence, RI USA
+Providence, RI USA 
 
 ## Professional
 School Technology Leader | Director of Technology at Paul Cuffee School
