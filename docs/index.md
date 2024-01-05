@@ -10,7 +10,7 @@ Providence, RI USA
 School Technology Leader | Director of Technology at [Paul Cuffee School](https://www.paulcuffee.org)
 
 ## Personal
-Father, husband, cyclist, maker of things, photographer
+Father, husband, cyclist, maker of things, photographer, cheesemaker
 
 ## Links
 [Linkedin](https://www.linkedin.com/in/benjaminharris/)
