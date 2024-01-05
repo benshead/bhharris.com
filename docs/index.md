@@ -2,7 +2,7 @@
 Providence, RI USA 
 
 ## Professional
-School Technology Leader | Director of Technology at Paul Cuffee School
+School Technology Leader | Director of Technology at [Paul Cuffee School](https://www.paulcuffee.org)
 
 ## Personal
 Father, husband, maker of things, photographer
