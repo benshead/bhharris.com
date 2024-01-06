@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 header li {
-background: linear-gradient(to top, #c6def0 0%, #758095 100%);
-box-shadow: inset 0px 1px 1px 0 #758095;
+background: linear-gradient(to top, #d4e9fa 0%, #414e59 100%);
+box-shadow: inset 0px 1px 1px 0 #3b404f;
+}
+
+header li:hover {
+background: linear-gradient(to top, #414e59 0%, #414e59 100%);
+  box-shadow: inset 0px 1px 1px 0 #3b404f;
 }
