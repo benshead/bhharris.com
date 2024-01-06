@@ -15,6 +15,6 @@ Father, husband, cyclist, maker of things, photographer
 ## Links
 [Linkedin](https://www.linkedin.com/in/benjaminharris/)
 [Flickr](https://www.flickr.com/photos/benshead/)
-[Twitter](https://twitter.com/benshead)
-
+[Strava](https://www.strava.com/athletes/2542158)
+[Threads](https://www.threads.net/@benshead)
 ![Alcatraz!](https://farm5.static.flickr.com/4669/38870572175_9a4ab24984_z.jpg")
