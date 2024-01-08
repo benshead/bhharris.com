@@ -1,8 +1,6 @@
 ---
 title: Ben Harris
 ---
-<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/adds.css">
-
 ## Location
 Providence, RI USA 
 
